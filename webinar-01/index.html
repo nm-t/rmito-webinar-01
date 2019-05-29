@@ -1,12 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
-</head>
-<body>
-	
-</body>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Document</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<main role="main">
+			<h1>Heading 1</h1>
+
+			<!-- Articles 'reset' the semantic flow of your page -->
+			<article>
+				<h2>Nested Heading</h2>
+				<p>Nested paragraph</p>
+
+				<!-- Articles can have multiple sections -->
+				<section>
+					<!-- ID attribute -->
+					<h1 id="id">Perfectly Fine</h1>
+
+					<!-- Class attribute -->
+					<p class="class">Content</p>
+					
+					<!-- An example of inline style (but please avoid this where possible) -->
+					<p style="font-size: 500px;">Content</p>
+
+					<h3>Next Level</h3>
+					<p>Sectioned element</p>
+				</section>
+			</article>
+			<p>My paragraph text here</p>
+
+			<h4>Heading 4</h4>
+		</main>
+	</body>
 </html>
