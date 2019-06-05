@@ -10,19 +10,20 @@
     - Pseudo elements
     - Dialog/z-index (modals)
     - Animations
-    - caniuse
+        - [CSS-only Porygon](https://codepen.io/daviddeejjames/pen/MqRveg)
+    - [Can I use](https://caniuse.com): Check compatibility of features across browsers
 - Responsive websites
     - Breakpoints
     - Fluid vs. responsive
     - min-width, max-width
     - Mobile-first
 - Component libraries
-    - Bootstrap
-    - Semantic UI
+    - [Bootstrap](https://getbootstrap.com)
+    - [Semantic UI](https://semantic-ui.com)
 - Developer resources 
-    - Responsive design weekly
-    - Front end Fridays
-    - PonyFoo
-    - WebOps weekly
-    - Front-end focus
-    - Web tools weekly
+    - [Responsive design weekly](http://responsivedesignweekly.com/)
+    - [Front end Fridays](https://fridayfrontend.com/)
+    - [PonyFoo](https://ponyfoo.com/)
+    - [WebOps weekly](https://webopsweekly.com/)
+    - [Front-end focus](https://frontendfoc.us/)
+    - [Web tools weekly](https://webtoolsweekly.com/)
