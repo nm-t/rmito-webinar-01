@@ -1,0 +1,40 @@
+# Webinar 2 (2019/06/05)
+- Questions from Webinar 1
+- Project checkin
+- CSS [cont.]
+    - Selectors
+    - Specificity
+    - Display (inline, block, inline-block, flex)
+    - Position (static, relative, absolute, fixed)
+    - Hover/active/etc. states
+    - Pseudo elements
+    - Dialog/z-index (modals)
+    - Animations
+    - caniuse
+- Responsive websites
+    - Breakpoints
+    - Fluid vs. responsive
+    - min-width, max-width
+    - Mobile-first
+- Component libraries
+    - Bootstrap
+    - Semantic UI
+- Web accessibility
+    - alt text on img
+    - label for/aria-labelled by
+    - Contrast ratios (https://contrast-ratio.com/)
+    - https://webaim.org/blog/10-easy-accessibility-tips/
+- Git
+    - SSH keys
+    - git clone
+    - git add
+    - git commit -am 'Message text'
+    - git push
+    - git pull
+- Developer resources 
+    - Responsive design weekly
+    - Front end Fridays
+    - PonyFoo
+    - WebOps weekly
+    - Front-end focus
+    - Web tools weekly
