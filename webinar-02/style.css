@@ -1,0 +1,58 @@
+p {
+    color: red;
+}
+
+.blue {
+    color: blue;    
+}
+
+#green,
+#green-again {
+    color: green !important;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+li {
+    padding: 10px 20px 30px 40px;
+}
+
+.outer {
+    height: 300px;
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+}
+
+.inner {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+a:hover {
+    background-color: orange;
+}
+
+a:before {
+    content: "x";
+    margin-right: 5px;
+}
+
+.content-holder {
+    width: 80%;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 800px) {
+    .content-holder {
+        width: 600px;
+    }
+}
