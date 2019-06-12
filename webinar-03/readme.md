@@ -1,0 +1,28 @@
+# Webinar 3 (2019/06/12)
+- Questions from Webinar 2
+    - [Why should you avoid using IDs in CSS?](https://dev.to/claireparkerjones/reasons-not-to-use-ids-in-css-4ni4)
+    - What does `<meta name="viewport" content="width=device-width, initial-scale=1.0">` mean?
+        - Metadata to ensure the width of the page is the device's screen width
+        - Zoom level set to 100%
+- Web accessibility
+    - alt text on img
+    - label for/aria-labelled by
+    - [Contrast ratios](https://contrast-ratio.com/)
+    - [10 easy a11y tips](https://webaim.org/blog/10-easy-accessibility-tips/)
+- Git/version control systems
+    - [SSH keys](https://help.github.com/en/articles/connecting-to-github-with-ssh)
+    - git clone
+    - git status
+    - git add
+    - git commit -am 'Message text'
+    - git push
+    - git pull
+- Basic Javascript
+    - Referencing a local JS file
+    - let/var/const
+    - console.log(), console.warn()
+    - JS is NOT strongly typed
+    - if
+    - for
+    - Functions
+    - Referencing CDN libraries (jQuery)
