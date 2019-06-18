@@ -30,3 +30,5 @@
     - What its like to work in the industry in Australia?
     - Is most of the work in full time employment, contract or freelance?
     - Are you expected to do the UI design yourself, or do you get mockups for a design team that you have to implement?
+    - How can I find work in front end?
+    - What's a typical developer interview process like?
