@@ -32,3 +32,5 @@
     - Are you expected to do the UI design yourself, or do you get mockups for a design team that you have to implement?
     - How can I find work in front end?
     - What's a typical developer interview process like?
+        - Whiteboarding/[Lean Six Sigma](https://en.wikipedia.org/wiki/Lean_Six_Sigma)
+        - Pair programming
